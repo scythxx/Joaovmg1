@@ -1,6 +1,5 @@
 - 👋 Hi, I’m João Martins and have 18 years old.
-- 👀 I'm interested in learning more and more about programming, and exploring this area.
-- 🌱 I’m currently learning JavaScript | HTML | CSS.
+- 🌱 I’m currently learning Portugol.
 - 📫 How to reach me: email: joao9gm.24@gmail.com. LinkedIN https://www.linkedin.com/in/jo%C3%A3o-martins-188306248/
 
 
